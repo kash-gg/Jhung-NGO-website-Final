@@ -26,7 +26,7 @@ Live at 👉 https://zunj-sanstha.vercel.app
 
 ## ⚙️ Setup Instructions
 
-### Clone and Install
+### Clone andInstall
 
 ```bash
 git clone https://github.com/kkbot122/Jhung-NGO-website-Final.git
